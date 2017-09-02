@@ -1,0 +1,18 @@
+/*
+
+NEAREST LUCKY NUMBERS
+
+A Lucky number is a natural number in a set which is generate by a certain "sieve". This sieve is simlar to the Sieve
+of Eratosthenes that generaete the primes, but it eliminates numbers based on their position in the remaining set,
+instead of their value ( or position in the initial set of natureal numbers).
+
+
+*/
+
+public class C329-ME
+{
+	public static void main(String[] args)
+	{
+		
+	}
+}
